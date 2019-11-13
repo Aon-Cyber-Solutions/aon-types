@@ -1,0 +1,25 @@
+{
+  "name": "aon-types",
+  "version": "0.0.1",
+  "description": "Type definitions shared between Aon's Cyber Solutions Development projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aon-Cyber-Solutions/aon-types.git"
+  },
+  "keywords": [
+    "aon",
+    "cyber",
+    "types",
+    "typescript"
+  ],
+  "author": "Oleg Chursin <olegchursin@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aon-Cyber-Solutions/aon-types/issues"
+  },
+  "homepage": "https://github.com/Aon-Cyber-Solutions/aon-types#readme"
+}
