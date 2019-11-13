@@ -1,7 +1,7 @@
 {
-  "name": "aon-types",
+  "name": "acs-types",
   "version": "0.0.1",
-  "description": "Type definitions shared between Aon's Cyber Solutions Development projects.",
+  "description": "Type definitions shared between Aon's Cyber Solutions (ACS) Development team projects.",
   "main": "index.js",
   "scripts": {
     "build": "tsc",

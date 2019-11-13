@@ -1,6 +1,6 @@
-# Aon Type(definition)s
+# ACS Type(definition)s
 
-Type definitions shared across Aon's Cyber Solutions Development projects.
+Type definitions shared across Aon's Cyber Solutions (ACS) Development team projects.
 
 ## Installation
 
